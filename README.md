@@ -29,7 +29,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ```
 
-## We are creating Note Taker and deploying it with Heroku!
 ## Tool and Application Requirements:
 * VS Code
 * HTML
